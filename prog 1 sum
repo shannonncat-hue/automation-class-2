@@ -1,0 +1,3 @@
+first=int(input("enter first no.:",))
+second=int(input("enter second no.:",))
+print("Sum:",first+second)
